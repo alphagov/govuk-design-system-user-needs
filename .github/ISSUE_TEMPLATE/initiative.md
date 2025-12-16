@@ -14,7 +14,7 @@ assignees: ''
  Add links to any relevant research findings or data.
 -->
 
-## Applicable GOV.UK Initiative
+## Applicable GOV.UK Initiative(s)
 <!--
  Delete as appropriate
 -->
