@@ -19,3 +19,8 @@ assignees: ''
 - End users
 - Senior stakeholders
 - Maintainers of design / dev resources
+
+## Outcome
+<!--
+Once research is complete, add links to supporting documentation and resources.
+-->
